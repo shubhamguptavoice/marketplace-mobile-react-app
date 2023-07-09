@@ -1,0 +1,45 @@
+{
+  "loginPage": {
+    "welcome_back": "Bienvenido de nuevo",
+    "forgot_password?": "¿Se te olvidó tu contraseña?",
+    "email_or_phone_number": "Correo electrónico o número de teléfono",
+    "password": "la contraseña",
+    "login": "iniciar sesión",
+    "or": "u",
+    "continue_with_google": "Continuar con Google",
+    "continue_with_facebook": "Continuar con Facebook",
+    "continue_with_apple": "Continuar con Apple",
+    "dont_have_a_account?": "¿No tienes una cuenta?",
+    "sign_up?": "¿inscribirse?"
+  },
+  "sellerDashboard": {
+    "seller_dashboard": "Panel del vendedor",
+    "search": "búsqueda",
+    "sold": "agotado",
+    "users": "usuarios",
+    "upload_products": "subir productos",
+    "listed_products": "productos enumerados",
+    "dummy_products": "productos ficticios"
+  },
+  "listedItems": {
+    "listed_items": "Artículos enumerados",
+    "s_no": "número de serie",
+    "item_details": "detalles del artículo",
+    "item_type": "Tipo de artículo",
+    "item_available_from": "Artículo disponible desde",
+    "item_available_to": "Artículo disponible para",
+    "item_image": "imagen del artículo"
+  },
+  "listingPage": {
+    "listing_page": "Página de listado",
+    "item_details": "detalles del artículo",
+    "item_type": "Tipo de artículo",
+    "from_date": "Partir de la fecha",
+    "to_date": "Hasta la fecha",
+    "submit": "enviar",
+    "list_of_all_items": "Lista de todos los elementos",
+    "hand_made":"hecho a mano",
+    "machine_made":"Hecho a máquina",
+    "none":"ninguno"
+  }
+}

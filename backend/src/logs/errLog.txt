@@ -1,0 +1,38 @@
+20220915	08:30:20	89510c3c-b950-437f-bc7a-52c44d8528ad	Error: Login sessions require session support. Did you forget to use `express-session` middleware?
+20220915	08:30:30	8a32dcdd-2893-41e0-aa7d-11549cebc139	Error: Login sessions require session support. Did you forget to use `express-session` middleware?
+20220915	08:30:31	91272cc1-4359-4f60-a2d6-b014b2939c2c	Error: Login sessions require session support. Did you forget to use `express-session` middleware?
+20220915	08:31:47	a292494b-1b7f-48eb-9908-e7d1c78d3498	Error: Login sessions require session support. Did you forget to use `express-session` middleware?
+20220915	08:31:48	4a0f74c2-e9b9-4dc4-a370-0e96f8764344	Error: Login sessions require session support. Did you forget to use `express-session` middleware?
+20220915	08:31:51	0e76af1c-6a58-490d-85a6-ab6f59477b27	Error: Login sessions require session support. Did you forget to use `express-session` middleware?
+20220915	08:31:53	d4e0eb16-e2b4-45b0-9ec4-51b24377424e	Error: Login sessions require session support. Did you forget to use `express-session` middleware?
+20220915	08:32:16	4ddfebd6-237c-4e05-8f4e-127906650793	Error: Login sessions require session support. Did you forget to use `express-session` middleware?
+20220915	08:32:17	8a2931af-7518-4f5e-8729-fabff1949ade	Error: Login sessions require session support. Did you forget to use `express-session` middleware?
+20220915	08:33:12	f696bed4-2678-48c2-bb79-1811359d2d4b	Error: Login sessions require session support. Did you forget to use `express-session` middleware?
+20220915	08:33:13	90c924a9-a561-48d5-b0dd-0c14d75635c2	Error: Login sessions require session support. Did you forget to use `express-session` middleware?
+20220915	08:33:15	848eb318-39a1-4469-bdc5-47abecb6b3f4	Error: Login sessions require session support. Did you forget to use `express-session` middleware?
+20220915	08:33:17	939b0f3c-66d4-4ba0-bc08-7b298ad54e51	Error: Login sessions require session support. Did you forget to use `express-session` middleware?
+20220915	08:33:50	f1c1707e-0545-40ca-9d0a-5e46a0425670	Error: Unknown authentication strategy "facebook"
+20220915	08:55:07	dfbbc12e-dea6-4f36-8451-7e9bde2c754e	FacebookTokenError: This authorization code has been used.
+20220915	08:55:07	6515d8db-7371-44f0-9313-7876692aff0f	TypeError: req.session.regenerate is not a function
+20220915	08:56:24	cb6912ce-5604-46a5-a204-62d7f76cecb6	TypeError: req.session.regenerate is not a function
+20220915	08:58:17	1572ca12-0040-4744-9a89-c184db26689b	TypeError: req.session.regenerate is not a function
+20220915	09:02:14	d7448c82-6779-4aa4-aeae-35de58975556	TypeError: req.session.regenerate is not a function
+20220915	09:02:15	bac1876d-b1d8-4a35-8485-830c50aa9df9	TypeError: req.session.regenerate is not a function
+20220915	09:09:26	ba85b60a-7149-44c5-9ed6-e8fb75fc6ff1	TypeError: req.session.regenerate is not a function
+20220915	09:09:26	5532e65b-989c-4bc4-bc33-da1124cfbcdf	FacebookTokenError: This authorization code has been used.
+20220915	09:11:00	9531fd02-d54f-43fc-ad85-af4160c89474	TypeError: req.session.regenerate is not a function
+20220915	09:11:47	44be9794-5054-4172-9d48-4bc1f53d400f	TypeError: req.session.regenerate is not a function
+20220915	09:13:21	5c9b02ed-893f-4bac-acc6-c8d6b95ae1d8	FacebookTokenError: This authorization code has been used.
+20220915	09:13:47	bb65e2e5-b4fd-4cdc-99ca-ad74cc219cd6	FacebookTokenError: This authorization code has been used.
+20220915	09:14:52	f271d9cd-d4d5-47a3-af19-7ae8e26c1622	FacebookTokenError: This authorization code has been used.
+20220915	09:15:56	2cc4a679-90dd-446a-bfd0-20ba9e54bd3e	TypeError: req.session.regenerate is not a function
+20220915	09:16:06	8b038aab-6d18-4700-8db2-b2fc5f176d69	FacebookTokenError: This authorization code has been used.
+20220915	09:16:33	5ac4ebbd-0815-419d-8e36-69f5a9639eb1	FacebookTokenError: This authorization code has been used.
+20220915	09:27:31	41f67b06-57ee-4df8-900e-67ce24e990b3	FacebookTokenError: This authorization code has expired.
+20220915	09:27:36	a967229d-d816-4aa4-85f7-a18ae607b726	FacebookTokenError: This authorization code has expired.
+20220915	14:02:19	a9939d5c-a5cf-4f29-84d5-032ce47a4f5e	Error: Cannot set headers after they are sent to the client
+20220916	01:02:15	50d299d1-b80d-4207-9128-b0ef9bff7bb3	FacebookTokenError: This authorization code has been used.
+20220916	01:26:56	d8f91f0a-c6f0-400a-a1a8-019db1207b20	FacebookTokenError: This authorization code has been used.
+20221029	08:38:14	e7188a47-0523-4f31-9a6f-1aa2e2aaed8e	SyntaxError: Unexpected token - in JSON at position 0
+20230226	22:29:18	9e33102b-6c8f-40ab-a441-6dc44bcb96ac	TokenError: Bad Request
+20230226	23:01:01	3ca7b653-08b6-4d77-b65f-a7115a713db0	TokenError: Bad Request

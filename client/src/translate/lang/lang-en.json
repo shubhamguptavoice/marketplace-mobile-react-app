@@ -1,0 +1,45 @@
+{
+  "loginPage": {
+    "welcome_back": "Welcome back",
+    "forgot_password?": "Forgot password?",
+    "email_or_phone_number": "Email or phone number",
+    "password": "Password",
+    "login": "Login",
+    "or": "OR",
+    "continue_with_google": "Continue With Google",
+    "continue_with_facebook": "Continue With Facebook",
+    "continue_with_apple": "Continue With Apple",
+    "dont_have_a_account?": "Don't have a account?",
+    "sign_up?": "Sign Up?"
+  },
+  "sellerDashboard": {
+    "seller_dashboard": "Seller Dashboard",
+    "search": "Search",
+    "sold": "Sold",
+    "users": "Users",
+    "upload_products": "Upload Products",
+    "listed_products": "Listed Products",
+    "dummy_products": "Dummy Products"
+  },
+  "listedItems": {
+    "listed_items": "Listed Items",
+    "s_no": "S.No",
+    "item_details": "Item Details",
+    "item_type": "Item Type",
+    "item_available_from": "Item Available From",
+    "item_available_to": "Item Available to",
+    "item_image": "Item Image"
+  },
+  "listingPage": {
+    "listing_page": "Listing Page",
+    "item_details": "Item Details",
+    "item_type": "Item Type",
+    "from_date": "From Date",
+    "to_date": "To Date",
+    "submit": "Submit",
+    "list_of_all_items": "List of all items",
+    "hand_made":"Hand Made",
+    "machine_made":"Machine Made",
+    "none":"None"
+  }
+}

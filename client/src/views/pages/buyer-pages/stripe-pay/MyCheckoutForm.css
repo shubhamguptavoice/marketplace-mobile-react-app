@@ -1,0 +1,10 @@
+button:disabled {
+    opacity: 0.5;
+    cursor: default;
+    color: rgb(0, 97, 66);
+    background-color: rgb(165, 212, 72);;
+}
+button#submit {
+    color: rgb(0, 97, 66);
+    background-color: rgb(165, 212, 72);;
+}

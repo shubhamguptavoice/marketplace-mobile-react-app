@@ -1,0 +1,2 @@
+20221228	23:39:34	4c7326d8-57c9-4700-9352-e03e132e08ae	POST	https://localhost:3000	/api/gmail/register
+20221228	23:39:34	1b2445a2-bf96-41bc-8707-74bcd5d9fee9	POST	https://localhost:3000	/api/gmail/register

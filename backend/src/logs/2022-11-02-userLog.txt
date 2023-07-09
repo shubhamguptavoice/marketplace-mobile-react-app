@@ -1,0 +1,12 @@
+20221102	22:50:33	3844cdb0-19ba-42d0-9566-4ce2dfe1e049	GET	https://localhost:3000	/api/upload-products
+20221102	22:50:34	1b5a3146-6bb8-4d99-8598-9799532f0e0a	GET	https://localhost:3000	/api/upload-products
+20221102	22:50:35	cfbab9ce-4e8a-4eba-8e06-756c51bb0239	GET	https://localhost:3000	/api/upload-products
+20221102	22:50:35	527721b8-8633-4c02-98f4-332550a41598	GET	https://localhost:3000	/api/upload-products
+20221102	22:51:13	752708cf-2251-4eb6-9b66-674103b64979	GET	undefined	/api/rating-products
+20221102	22:51:13	300ba144-50ff-4ae0-9e08-b301aabd5ec0	GET	undefined	/api/rating-products
+20221102	23:08:29	e10c44b4-301a-4950-bf2f-78ae34eb845b	POST	undefined	/api/rating-products
+20221102	23:08:29	947abec6-0590-492e-8632-506c803e858c	POST	undefined	/api/rating-products
+20221102	23:11:06	c02c48f9-d325-4d08-b340-e0eb21411651	POST	undefined	/api/rating-products
+20221102	23:11:06	dbc775c0-905a-4acf-b95f-5b680f49deb6	POST	undefined	/api/rating-products
+20221102	23:12:16	209f336d-f003-4f85-bdf0-befe0c7054a4	POST	undefined	/api/rating-products
+20221102	23:12:16	43c287be-0eab-4bd6-8394-22def45edab5	POST	undefined	/api/rating-products

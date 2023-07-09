@@ -1,0 +1,12 @@
+20220919	14:53:45	c6558eea-0eed-458f-84ff-52442a206247	GET	undefined	/api/google
+20220919	14:53:49	db165ff4-6ee6-4622-b8fd-bbbc529adb68	GET	undefined	/api/google/callback?code=4%2F0ARtbsJoTrSeuMbz6Jl2eFqLDoJNKA0NLsxjJwXtlLpqzhikPkAi-02_nqAhYoZanqQIuxQ&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile
+20220919	14:53:49	9ef42fc0-f2ff-47ed-8283-ff4a591129f9	GET	undefined	/api/google/extrainfocheck/115563291069595349911
+20220919	14:53:57	98a5ed81-3c9f-4c03-90e8-75da5c158f36	GET	undefined	/api/facebook
+20220919	14:53:58	1492cf30-de1a-48de-bb59-438189b84ac1	GET	undefined	/api/facebook/callback?code=AQDSJdtuJ2r_-gz-GQEU2_34mPCXo3kzpbypFKGxNSKL1G33-S-0rS0YsE2W6tuLY8cF_pbFwz8m-lS7nk4oWma0SG9GdfkO6R_273MXmVpDIsG8BDRlO4-V8RZDrEPTzJrwIQBkNzILMz6MroryolxvBzwqglUzEuwhQ1D_z5CUpEDsWbKjDt4reIVQNotc6jEVkdXMoXAyw-TAwrdo1u0bodkXy7qmD79jGb0wTJfCHbPX2mYqRELVQXIdez-0_1oIEydTkY3PdoBa5fJyQq2gVC5O35_nQEejI7IwQwWJ7Fi0CH7GW8PhDSzk-r9R_EkjGkMim2qCYN-c91NwZDWA4dDsabZL2rdSTVzcCgHq9hZC895BiFsgSpMYJoyUI_1WbvxRWiFmP6TVj8tWTc9Lm0DuI-SwaoUyvqKOwFIYhA
+20220919	14:53:59	fc8162d0-c309-455b-af3a-539d89960886	GET	undefined	/api/extrainfocheck/3318241768447273
+20220919	14:54:14	851d9d30-3a58-467b-8d66-374c68143658	POST	https://localhost:3002	/api/gmail/login
+20220919	20:01:44	756dcfea-0aa8-4e25-b62c-7cd35300e904	GET	undefined	/api/google
+20220919	20:01:58	4b05bd3a-c178-45f5-9283-f02f0c5a2bad	GET	undefined	/api/google
+20220919	20:02:02	2b8e40e6-07cf-407e-b73e-7f65ea8d5d5e	GET	undefined	/api/google/callback?code=4%2F0ARtbsJqF7BuSLhsHJkxg-gWv_OYTBLocKzyo4B1mBQpN3itRpPEtvkMReOQsDnWypkJVKA&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile
+20220919	20:02:03	68bac231-9429-485c-9ed5-68ee9c297623	GET	undefined	/api/google/extrainfocheck/115563291069595349911
+20220920	07:45:15	632f9165-668f-4258-96b7-52aad34ec8e3	POST	https://localhost:3003	/api/gmail/login

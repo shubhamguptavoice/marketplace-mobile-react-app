@@ -1,0 +1,7 @@
+20221008	03:15:27	999d24b7-4d05-4f31-968e-71ce70e09e9f	GET	undefined	/api/google
+20221008	03:15:31	afbf5552-9d5c-4625-9ada-dda6aa7f98ae	GET	undefined	/api/google/callback?code=4/0ARtbsJrlC558uO4mcPbZHUXve9ohuGN-1pHz_I2zPlsi3gm1aZBOF05k-hy_jarhUoOiOA&scope=profile%20https://www.googleapis.com/auth/userinfo.profile
+20221008	03:15:32	da8e0948-f194-43ae-abad-32611e04d8d0	GET	undefined	/api/google/extrainfocheck/100102176306060393023
+20221008	03:16:15	75a69bd3-0333-4c32-b81b-4da98bfc9b8a	POST	https://localhost:3000	/api/google/extrainfocheck/100102176306060393023
+20221009	03:41:49	5c861f3f-0eff-4ea0-9691-40e696e0ca4d	POST	https://localhost:3000	/api/gmail/register
+20221009	03:44:06	2c3cc126-83c0-43dc-8bea-22fa21eee57a	POST	https://localhost:3000	/api/gmail/login1
+20221009	15:04:28	a4061206-16a3-4968-b634-0edc40b06485	POST	https://localhost:3000	/api/gmail/login1
